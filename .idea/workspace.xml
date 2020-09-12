@@ -20,15 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9480f802-f0db-419e-a47d-8a8d2d455134" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/mymern.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/default.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/User.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/auth.routes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/default.json" beforeDir="false" afterPath="$PROJECT_DIR$/config/default.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/auth.routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/auth.routes.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +56,9 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="run.prettier.on.save" value="true" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.prettier" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -70,6 +69,7 @@
       <option name="presentableId" value="Default" />
       <updated>1599830681964</updated>
       <workItem from="1599830683194" duration="7385000" />
+      <workItem from="1599899244879" duration="2590000" />
     </task>
     <servers />
   </component>
@@ -89,18 +89,39 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="740" y="266" key="FileChooserDialogImpl" timestamp="1599830973061">
+    <state x="585" y="110" key="CommitChangelistDialog2" timestamp="1599901640417">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="740" y="266" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1599830973061" />
-    <state x="461" y="170" key="SettingsEditor" timestamp="1599830973651">
+    <state x="585" y="110" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1599901640417" />
+    <state x="740" y="266" key="FileChooserDialogImpl" timestamp="1599901200294">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="461" y="170" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1599830973651" />
+    <state x="740" y="266" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1599901200294" />
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1599899310988">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1599899310988" />
+    <state width="1877" height="285" key="GridCell.Tab.0.center" timestamp="1599899310987">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1599899310987" />
+    <state width="1877" height="285" key="GridCell.Tab.0.left" timestamp="1599899310987">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1599899310987" />
+    <state width="1877" height="285" key="GridCell.Tab.0.right" timestamp="1599899310988">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1599899310988" />
+    <state x="922" y="158" key="SettingsEditor" timestamp="1599901837220">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="922" y="158" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1599901837220" />
   </component>
 </project>
