@@ -20,45 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9480f802-f0db-419e-a47d-8a8d2d455134" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/client/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/public/logo192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/public/logo512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/public/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/LinkCard.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/LinksList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/Loader.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/Navbar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/context/AuthContext.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/hooks/auth.hook.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/hooks/http.hook.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/hooks/message.hook.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/pages/AuthPage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/pages/CreatePage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/pages/DetailPage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/pages/LinksPage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/routes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/serviceWorker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/setupTests.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/middleware/auth.middleware.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/Link.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/link.routes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/redirect.routes.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/default.json" beforeDir="false" afterPath="$PROJECT_DIR$/config/default.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/auth.routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/auth.routes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/production.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,7 +88,7 @@
       <updated>1599830681964</updated>
       <workItem from="1599830683194" duration="7385000" />
       <workItem from="1599899244879" duration="7687000" />
-      <workItem from="1599918158733" duration="15803000" />
+      <workItem from="1599918158733" duration="16108000" />
     </task>
     <task id="LOCAL-00001" summary="Продолжаю изучать">
       <created>1599902126761</created>
@@ -135,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599902126761</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Готово">
+      <created>1600025960234</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1600025960234</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TerminalProjectNonSharedOptionsProvider">
@@ -159,13 +128,14 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Продолжаю изучать" />
-    <option name="LAST_COMMIT_MESSAGE" value="Продолжаю изучать" />
+    <MESSAGE value="Готово" />
+    <option name="LAST_COMMIT_MESSAGE" value="Готово" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="585" y="110" key="CommitChangelistDialog2" timestamp="1599902124873">
+    <state x="585" y="110" key="CommitChangelistDialog2" timestamp="1600025956033">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="585" y="110" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1599902124873" />
+    <state x="585" y="110" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1600025956033" />
     <state x="184" y="87" key="DiffContextDialog" timestamp="1599902090984">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -194,9 +164,9 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="922" y="158" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1599902938057" />
-    <state x="1013" y="258" key="Vcs.Push.Dialog.v2" timestamp="1599902134221">
+    <state x="1013" y="258" key="Vcs.Push.Dialog.v2" timestamp="1600025968202">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="1013" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1599902134221" />
+    <state x="1013" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1600025968202" />
   </component>
 </project>
