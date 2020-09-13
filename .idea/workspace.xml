@@ -89,7 +89,7 @@
       <updated>1599830681964</updated>
       <workItem from="1599830683194" duration="7385000" />
       <workItem from="1599899244879" duration="7687000" />
-      <workItem from="1599918158733" duration="17198000" />
+      <workItem from="1599918158733" duration="17757000" />
     </task>
     <task id="LOCAL-00001" summary="Продолжаю изучать">
       <created>1599902126761</created>
@@ -112,7 +112,21 @@
       <option name="project" value="LOCAL" />
       <updated>1600026122793</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Готово">
+      <created>1600027215268</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1600027215268</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Готово">
+      <created>1600027334630</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1600027334630</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TerminalProjectNonSharedOptionsProvider">
@@ -140,10 +154,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Готово" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="585" y="110" key="CommitChangelistDialog2" timestamp="1600026121429">
+    <state x="585" y="110" key="CommitChangelistDialog2" timestamp="1600027333471">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="585" y="110" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1600026121429" />
+    <state x="585" y="110" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1600027333471" />
     <state x="184" y="87" key="DiffContextDialog" timestamp="1599902090984">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -172,9 +186,9 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="922" y="158" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1600026235941" />
-    <state x="1013" y="258" key="Vcs.Push.Dialog.v2" timestamp="1600026126887">
+    <state x="1013" y="258" key="Vcs.Push.Dialog.v2" timestamp="1600027345688">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="1013" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1600026126887" />
+    <state x="1013" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1600027345688" />
   </component>
 </project>
