@@ -20,7 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9480f802-f0db-419e-a47d-8a8d2d455134" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config/production.json" beforeDir="false" afterPath="$PROJECT_DIR$/config/production.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -89,7 +88,7 @@
       <updated>1599830681964</updated>
       <workItem from="1599830683194" duration="7385000" />
       <workItem from="1599899244879" duration="7687000" />
-      <workItem from="1599918158733" duration="17757000" />
+      <workItem from="1599918158733" duration="17860000" />
     </task>
     <task id="LOCAL-00001" summary="Продолжаю изучать">
       <created>1599902126761</created>
@@ -126,7 +125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600027334630</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Готово">
+      <created>1600027797449</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1600027797449</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TerminalProjectNonSharedOptionsProvider">
@@ -154,10 +160,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Готово" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="585" y="110" key="CommitChangelistDialog2" timestamp="1600027333471">
+    <state x="585" y="110" key="CommitChangelistDialog2" timestamp="1600027796134">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="585" y="110" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1600027333471" />
+    <state x="585" y="110" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1600027796134" />
     <state x="184" y="87" key="DiffContextDialog" timestamp="1599902090984">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -186,9 +192,9 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="922" y="158" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1600026235941" />
-    <state x="1013" y="258" key="Vcs.Push.Dialog.v2" timestamp="1600027345688">
+    <state x="1013" y="258" key="Vcs.Push.Dialog.v2" timestamp="1600027804238">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="1013" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1600027345688" />
+    <state x="1013" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1600027804238" />
   </component>
 </project>
