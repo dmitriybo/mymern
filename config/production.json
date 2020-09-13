@@ -1,5 +1,5 @@
 {
-  "port": 5000,
+  "port": 80,
   "jwtSecret": "hiBro",
   "mongoUri": "mongodb+srv://admin:3rzcaVtHwe5TVqVy@clustermw.0zkcv.azure.mongodb.net/app?retryWrites=true&w=majority",
   "baseUrl": "https://test3.mworx.ru"
