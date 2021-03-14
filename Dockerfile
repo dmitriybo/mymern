@@ -6,7 +6,7 @@ WORKDIR /usr/src/app/
 ARG username
 ARG password
 
-RUN git clone https://${username}:${password}@github.com/${username}/mymern.git
+RUN git clone https://${username}:${password}@github.com/${username}/mymern.git .
 
 RUN npm install
 RUN npm run client:install
