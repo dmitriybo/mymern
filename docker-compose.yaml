@@ -1,0 +1,15 @@
+version: "1"
+
+services:
+  mymern:
+    build:
+      context: mymern/
+      args:
+        username: dmitriybo
+        password: hHPjXrTUa72e7L8
+    restart: always
+    ports:
+      - 3000:3000
+
+    entrypoint:
+      - TZ=Europe/Moskow
