@@ -12,4 +12,8 @@ RUN npm install
 RUN npm run client:install
 RUN npm run client:build
 
+EXPOSE 3000
+
+ENV TZ Europe/Moscow
+
 CMD [ "npm", "start" ]
