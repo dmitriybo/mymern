@@ -10,7 +10,7 @@ WORKDIR /usr/src/app/
 
 COPY . .
 
-RUN npm install -g npm
+RUN npm install -g npm@7.6.3
 RUN npm install
 RUN npm run client:install
 RUN npm run client:build
