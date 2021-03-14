@@ -3,7 +3,7 @@ version: "3.3"
 services:
   mymern:
     build:
-      context: mymern/
+      context: .
 #      args:
 #        username: dmitriybo
 #        password: hHPjXrTUa72e7L8
